@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/StoneD/Desktop/New folder/Desktop/jar files/javamail-1.4.3/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/StoneD/Desktop/New folder/Desktop/jar files/javamail-1.4.3/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/StoneD/Desktop/New folder/Desktop/jar files/javamail-1.4.3/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/StoneD/Desktop/New folder/Desktop/jar files/javamail-1.4.3/xmlsec-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/StoneD/Desktop/New folder/quartz-1.8.4/quartz-1.8.4/quartz-1.8.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
